@@ -1,0 +1,28 @@
+html,
+body {
+  text-align: center;
+}
+
+.intro {
+  border-radius: 50%;
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.conteudo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#perfil {
+  width: 420px;
+  background-image: url(img/foto-perfil.jpg);
+  height: 560px;
+  background-size: cover;
+  border-radius: 5%;
+}
+
+.lista {
+  list-style-type: none;
+}
