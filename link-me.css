@@ -16,9 +16,9 @@ body {
 }
 
 #perfil {
-  width: 420px;
+  width: 280px;
   background-image: url(img/foto-perfil.jpg);
-  height: 560px;
+  height: 390px;
   background-size: cover;
   border-radius: 5%;
 }
