@@ -18,9 +18,9 @@ body {
 }
 
 #perfil {
-  width: 280px;
-  background-image: url(img/foto-perfil.jpg);
-  height: 390px;
+  width: 350px;
+  background-image: url("https://avatars.githubusercontent.com/u/91551462?v=4");
+  height: 382px;
   background-size: cover;
   border-radius: 5%;
 }
